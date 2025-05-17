@@ -4,5 +4,4 @@ __pycache__/
 *.h5
 *.zip
 *.tar
-*.csv
 fire_env/
