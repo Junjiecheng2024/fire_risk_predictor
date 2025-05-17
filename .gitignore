@@ -1,0 +1,8 @@
+# .gitignore
+__pycache__/
+*.pt
+*.h5
+*.zip
+*.tar
+*.csv
+fire_env/
