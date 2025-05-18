@@ -1,5 +1,7 @@
-numpy
 pandas
+numpy
+matplotlib
 scikit-learn
-lightgbm
-joblib
+statsmodels
+folium
+tqdm
